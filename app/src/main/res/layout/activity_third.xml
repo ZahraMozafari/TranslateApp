@@ -39,8 +39,8 @@
         app:layout_constraintVertical_bias="0.288" />
 
     <TextView
-        android:fontFamily="@font/sbadr"
 
+        android:fontFamily="@font/sbadr"
         android:id="@+id/meaning"
         android:layout_width="336dp"
         android:layout_height="237dp"
